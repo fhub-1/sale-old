@@ -26,3 +26,5 @@ pnpm dlx shadcn-ui@latest add
 
 pnpm add @prisma/client
 pnpm add prisma --save-dev
+
+pnpm add --save-dev commitizen cz-conventional-changelog @commitlint/cli @commitlint/config-conventional
