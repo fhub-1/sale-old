@@ -53,3 +53,7 @@ pnpm dev
 ```
 
 Open http://localhost:3000 in your browser to view the application.
+
+![Untitled-2024-08-02-2259](https://github.com/user-attachments/assets/2fe70ad4-3ec1-4937-8848-6a42f74f2238)
+
+
